@@ -18,7 +18,8 @@ header{
     align-items: center;
     justify-content:space-between;
     padding: 40px 152px;
-    border-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
     /* border-bottom: 3px solid red; */
     position: fixed;
     top: 0;
